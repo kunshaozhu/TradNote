@@ -1,0 +1,17 @@
+{
+  "name": "交易笔记 PA Trader",
+  "short_name": "PA Trader",
+  "description": "专业的交易员笔记与复盘工具",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
